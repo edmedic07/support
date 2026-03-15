@@ -1,16 +1,5 @@
 {
-  "daily_issues_created": 10,
-  "last_reset_date": "2026-03-14",
-  "user_tag_history": {
-    "oyewoidris08-source": "2026-03-14T05:03:23.619959",
-    "github-actions": "2026-03-14T07:24:24.934577",
-    "yaa493021-art": "2026-03-14T09:02:58.805110",
-    "github-actions[bot]": "2026-03-14T09:03:43.210248",
-    "edwomoh": "2026-03-14T13:57:18.309145",
-    "diegocarboni-ui": "2026-03-14T15:54:25.290878",
-    "PolyStake-hub": "2026-03-14T15:55:13.455298",
-    "Itsziyed": "2026-03-14T17:57:01.279067",
-    "byablons-afk": "2026-03-14T19:17:56.136526",
-    "BrandonS7": "2026-03-14T21:52:36.318432"
-  }
+  "daily_issues_created": 0,
+  "last_reset_date": "2026-03-15",
+  "user_tag_history": {}
 }
